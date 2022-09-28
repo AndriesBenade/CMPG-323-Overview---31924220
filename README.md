@@ -22,3 +22,7 @@ This project is about setting up an overview repository that contains informatio
 In this project I started out by creating and setting up the overview repository (which is also this current repository). Next I created the project within the repository that contains deadlines, issues, etc. After creating the project, I populated it with relevant data and information.
 # -> How it went
 This project went fairly well and I had a clear understanding of exactly what to do. I did not really struggle with anything, but I did, however find the data capturing to be extremely tedious.
+
+## Project 2
+# -> About
+hello
