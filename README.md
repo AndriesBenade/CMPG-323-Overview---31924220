@@ -1,13 +1,13 @@
 # CMPG-323-Overview---31924220
 
-## Project Diagram
+# ═════╣ Project Diagram ╠═══════════
 ![cmpg323 proj1 diagram](https://user-images.githubusercontent.com/67644109/184879364-bbfc2960-c201-403f-99a1-2e2e8a5d9c98.png)
-## Use of .gitignore Files On Each Project Branch
+# ═════╣ Use of .gitignore Files On Each Project Branch ╠═══════════
 .gitignore files will be used to exclude any additional, yet unnecesary files from the picture as a whole.
-## Storage of Credentials and Sensitive Information
+# ═════╣ Storage of Credentials and Sensitive Information ╠═══════════
 Credentials and sensitive information would have to be stored securely in order to prevent the information from getting leaked or from falling into the wrong hands.
 
-# Project 1
+# ═════╣ Project 1 ╠═══════════
 ## Link
 https://github.com/AndriesBenade/CMPG-323-Overview---31924220.git
 ## About
@@ -17,7 +17,7 @@ In this project I started out by creating and setting up the overview repository
 ## How it went
 This project went fairly well and I had a clear understanding of exactly what to do. I did not really struggle with anything, but I did, however find the data capturing to be extremely tedious.
 
-# Project 2
+# ═════╣ Project 2 ╠═══════════
 ## Link
 https://github.com/AndriesBenade/CMPG-323-Project-2---31924220.git
 ## About
@@ -27,7 +27,7 @@ In this project I started out by creating the repository for Project 2 and setti
 ## How it went
 This project did not go very well as I had a lot of trouble understanding what exactly was being expected from us. I did however manage to use and work with Microsoft Azure, but I had trouble working with and creating an API. There is definitely a lot of room for personal improvement in this field for me personally.
 
-# Project 3
+# ═════╣ Project 3 ╠═══════════
 ## Link
 https://github.com/AndriesBenade/CMPG-323-Project-3---31924220.git
 ## About
