@@ -1,7 +1,7 @@
 # CMPG-323-Overview---31924220
 
-# ═══ Project Diagram ═══
-![cmpg323 proj1 diagram](https://user-images.githubusercontent.com/67644109/184879364-bbfc2960-c201-403f-99a1-2e2e8a5d9c98.png)
+# ═══ Project Repository Overview Diagram ═══
+![repository overview diagram](https://user-images.githubusercontent.com/67644109/199455375-fe8b73b8-1654-4023-b88f-3d3b6c6b4702.png)
 # ═══ Use of .gitignore Files On Each Project Branch ═══
 .gitignore files will be used to exclude any additional, yet unnecesary files from the picture as a whole.
 # ═══ Storage of Credentials and Sensitive Information ═══
