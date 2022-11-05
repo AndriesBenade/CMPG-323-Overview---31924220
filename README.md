@@ -37,12 +37,12 @@ In this project I started by creating a repository for Project 3. After that, I 
 ## How it went
 This project went fairly well in my opinion. When I started, I had no idea what I was doing, but as I continued to push through, I understood more and knew what to do. All in all, this was a good project.
 
-# ═══ Project 4 ═══
+# ═══ Project 5 ═══
 ## Link
-https://github.com/AndriesBenade/CMPG-323-Project-4---31924220.git
+https://github.com/AndriesBenade/CMPG-323-Project-5---31924220.git
 ## About
-This project is about working with UiPath to create a process that automates something that would normally be completed by a human. In this instance, the process that we had to automate, was using the Connected Office webapp from Project 3 to add data to the database via automation.
+This project is about working with Power BI to provide the user with graphical/summarized views of data in order to represent the data in a more informative way that could better aid decision making.
 ## What I did
-I started by creating the repository that I was planning to host the solution on. Then I downloaded and installed UiPath Studio as stated by the PDF in order to create and work on the automation process. I then created the process and started adding in the activities that I needed in order to complete the process, starting with the excel activities required to read data from excel into data tables in UiPath. I then added the relevant activities I needed to add in order to automate the interface of the webapp so that the process could insert the data into the database. After completing this, I added the ability for the process to check if records were added to the database and the process would then store the check results in a data table in UiPath which would then be exported back to the excel file after completing the process.
+I started off by adding going through the project documentation and creating the project repository and cloned it to my computer. Right after doing that I installed Power BI and created the relevant issues for my project repository on my Overview repository to work with the kanban. After setting up the issues, I created the report and the 3 required pages and I also downloaded the excel file that contained the data/sample data. I did not quite understand what to do with the High-Level Metrics page so I skipped it and started creating the required visuals on the Device Monitoring page. I also created 3 different key measures to use throughout the report. After adding the visauls to the Device Monitoring page, I proceeded to add the required visuals to the Device Registration page. I also added some extra visuals on both these pages. At this point I had an idea of what was expected on the High-Level Metrics page so I proceeded to complete that page. The last thing I needed to do now was to insert filtering and update the repository readme file on the Project 5 repository which I did both consecutively.
 ## How it went
-I really enjoyed this project and consider automation to be part of my life from this point forward. I could easily say this was one of the most fun projects I had over my entire university experience.
+Personally I think that this project went well as I had no trouble working with Power BI and the work was fairly easy to understand.
