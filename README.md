@@ -37,6 +37,16 @@ In this project I started by creating a repository for Project 3. After that, I 
 ## How it went
 This project went fairly well in my opinion. When I started, I had no idea what I was doing, but as I continued to push through, I understood more and knew what to do. All in all, this was a good project.
 
+# ═══ Project 4 ═══
+##Link
+https://github.com/AndriesBenade/CMPG-323-Project-4---31924220.git
+## About
+This project is about working with UiPath to create a process that automates something that would normally be completed by a human. In this instance, the process that we had to automate, was using the Connected Office webapp from Project 3 to add data to the database via automation.
+## What I did
+I started by creating the repository that I was planning to host the solution on. Then I downloaded and installed UiPath Studio as stated by the PDF in order to create and work on the automation process. I then created the process and started adding in the activities that I needed in order to complete the process, starting with the excel activities required to read data from excel into data tables in UiPath. I then added the relevant activities I needed to add in order to automate the interface of the webapp so that the process could insert the data into the database. After completing this, I added the ability for the process to check if records were added to the database and the process would then store the check results in a data table in UiPath which would then be exported back to the excel file after completing the process.
+## How it went
+I really enjoyed this project and consider automation to be part of my life from this point forward. I could easily say this was one of the most fun projects I had over my entire university experience.
+
 # ═══ Project 5 ═══
 ## Link
 https://github.com/AndriesBenade/CMPG-323-Project-5---31924220.git
